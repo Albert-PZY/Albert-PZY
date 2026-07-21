@@ -30,11 +30,16 @@
 
 ### Activity
 
+<!-- Animated contribution snake — regenerated daily by .github/workflows/snake.yml -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/c8ff00/Albert-PZY" alt="Contribution chart" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity/github-snake.svg" />
+    <img alt="Contribution snake animation" src="./assets/activity/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
+<!-- Theme-matched contribution area graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Albert-PZY&theme=github_dark&utcOffset=8" height="200" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&theme=github_dark" height="200" alt="Profile details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-PZY&bg_color=0a0a0a&color=c8ff00&line=7dd3fc&point=c8ff00&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=16&area_color=7dd3fc" width="100%" alt="Contribution activity graph" />
 </p>
