@@ -21,19 +21,13 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img height="168" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=c8ff00&icon_color=7dd3fc&text_color=e5e5e5&ring_color=c8ff00&border_radius=14&include_all_commits=true" alt="GitHub stats" />
-    </td>
-    <td align="center" width="50%">
-      <img height="168" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&hide_title=true&bg_color=0a0a0a&title_color=c8ff00&text_color=e5e5e5&border_radius=14&langs_count=6" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0a0a&icon_color=7dd3fc&text_color=e5e5e5&ring_color=c8ff00&border_radius=14&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=e5e5e5&border_radius=14&langs_count=6" alt="Top languages" />
+</p>
 
 <p align="center">
-  <img height="168" src="https://streak-stats.demolab.com/?user=Albert-PZY&theme=dark&hide_border=true&background=0A0A0A&ring=C8FF00&fire=C8FF00&currStreakLabel=7DD3FC&sideLabels=A3A3A3&sideNums=E5E5E5&dates=737373&border_radius=14&hide_total_contributions=false" alt="Contribution streak" />
+  <img height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Albert-PZY&theme=dark&hide_border=true&background=0A0A0A&ring=C8FF00&fire=C8FF00&currStreakLabel=7DD3FC&sideLabels=A3A3A3&sideNums=E5E5E5&dates=737373" alt="Contribution streak" />
 </p>
 
 <p align="center">
