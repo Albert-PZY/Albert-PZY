@@ -1,88 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
   <title id="title">Albert</title>
-  <desc id="desc">Bold profile hero for full-stack and AI work.</desc>
+  <desc id="desc">Minimal profile header</desc>
   <defs>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#c8ff00"/>
-      <stop offset="45%" stop-color="#9eff00"/>
-      <stop offset="100%" stop-color="#7dd3fc"/>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="slash" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c8ff00" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#c8ff00" stop-opacity="0.95"/>
-      <stop offset="65%" stop-color="#7dd3fc" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#121212"/>
-      <stop offset="100%" stop-color="#070707"/>
-    </linearGradient>
-    <radialGradient id="bloom" cx="18%" cy="30%" r="55%">
-      <stop offset="0%" stop-color="#c8ff00" stop-opacity="0.22"/>
-      <stop offset="55%" stop-color="#7dd3fc" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#1c1c1c" stroke-width="1"/>
-    </pattern>
-    <clipPath id="frame">
-      <rect width="1200" height="340" rx="22"/>
-    </clipPath>
   </defs>
-
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="340" fill="#050505"/>
-    <rect width="1200" height="340" fill="url(#grid)" opacity="0.85"/>
-    <rect width="1200" height="340" fill="url(#bloom)"/>
-
-    <!-- hard diagonal neon slash -->
-    <polygon points="820,0 1200,0 1200,340 560,340" fill="#0b0f08" opacity="0.9"/>
-    <path d="M760 0 L1120 340" stroke="url(#slash)" stroke-width="18" opacity="0.85"/>
-    <path d="M790 0 L1150 340" stroke="#c8ff00" stroke-width="2" opacity="0.55"/>
-
-    <!-- left stack label -->
-    <g transform="translate(52 48)">
-      <rect width="168" height="34" rx="6" fill="#0f0f0f" stroke="#c8ff00" stroke-opacity="0.7"/>
-      <circle cx="20" cy="17" r="5" fill="#c8ff00"/>
-      <text x="36" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#c8ff00">SYSTEM ONLINE</text>
-    </g>
-
-    <!-- massive name -->
-    <text x="52" y="168" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial Black, sans-serif" font-size="108" font-weight="900" letter-spacing="-4" fill="#f7f7f7">ALBERT</text>
-    <text x="54" y="168" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial Black, sans-serif" font-size="108" font-weight="900" letter-spacing="-4" fill="url(#neon)" opacity="0.18">ALBERT</text>
-
-    <!-- tagline block -->
-    <text x="56" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#7dd3fc">FULL-STACK  ·  AI  ·  LOCAL-FIRST</text>
-    <text x="56" y="258" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="22" font-weight="600" fill="#d4d4d4">Everything is cheap — show me your prompts.</text>
-
-    <!-- bottom accent bar -->
-    <rect x="56" y="286" width="220" height="8" rx="4" fill="url(#neon)"/>
-
-    <!-- right terminal proof -->
-    <g transform="translate(780 70)">
-      <rect width="370" height="210" rx="16" fill="url(#panel)" stroke="#222"/>
-      <rect width="370" height="36" rx="16" fill="#101010"/>
-      <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
-      <circle cx="46" cy="18" r="6" fill="#febc2e"/>
-      <circle cx="68" cy="18" r="6" fill="#28c840"/>
-      <text x="92" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#666">~/work</text>
-
-      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
-        <text x="24" y="68" fill="#555">$</text>
-        <text x="44" y="68" fill="#c8ff00">ship --mode agent</text>
-        <text x="24" y="98" fill="#7dd3fc">✓ RAG pipeline warm</text>
-        <text x="24" y="128" fill="#7dd3fc">✓ SSE stream stable</text>
-        <text x="24" y="158" fill="#7dd3fc">✓ context recovered</text>
-        <text x="24" y="188" fill="#555">$</text>
-        <text x="44" y="188" fill="#e5e5e5">_</text>
-        <rect x="54" y="174" width="12" height="18" fill="#c8ff00" opacity="0.9"/>
-      </g>
-    </g>
-
-    <!-- corner ticks -->
-    <g stroke="#c8ff00" stroke-width="2" fill="none" opacity="0.55">
-      <path d="M24 24 h36 M24 24 v28"/>
-      <path d="M1176 316 h-36 M1176 316 v-28"/>
-    </g>
-  </g>
+  <rect width="1200" height="200" rx="18" fill="#0b0f19"/>
+  <text x="600" y="88" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="44" font-weight="700" fill="#f1f5f9" letter-spacing="2">Albert</text>
+  <text x="600" y="128" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#94a3b8">Everything is cheap, show me your prompts.</text>
+  <rect x="480" y="152" width="240" height="2" rx="1" fill="url(#line)"/>
 </svg>

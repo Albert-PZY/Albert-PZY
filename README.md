@@ -1,53 +1,23 @@
-<!-- Profile About — data & activity only -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:c8ff00,45:0a0a0a,100:7dd3fc&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="" />
+  <img src="./assets/readme/hero.svg" width="100%" alt="Albert" />
 </p>
 
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="ALBERT — full-stack · AI · local-first" />
+  <a href="https://albert-pzy.github.io/myself/"><img src="https://img.shields.io/badge/resume-myself-818cf8?style=flat-square&labelColor=0b0f19" alt="Resume"/></a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0003-5887-2303"><img src="https://img.shields.io/badge/orcid-a78bfa?style=flat-square&labelColor=0b0f19&logo=orcid&logoColor=a78bfa" alt="ORCID"/></a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=900&color=C8FF00&center=true&vCenter=true&width=680&height=40&lines=Everything+is+cheap%2C+show+me+your+prompts.;Shipping+RAG+%2F+Agent+systems+end-to-end.;TypeScript+%C2%B7+Python+%C2%B7+Electron+%C2%B7+MCP" alt="typing status" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0f19&icon_color=818cf8&text_color=e2e8f0&ring_color=818cf8&border_radius=12&include_all_commits=true" alt="Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&hide_title=true&bg_color=0b0f19&text_color=e2e8f0&border_radius=12&langs_count=5" alt="Languages" />
 </p>
 
-<p align="center">
-  <a href="https://albert-pzy.github.io/myself/"><img src="https://img.shields.io/badge/Resume-myself-c8ff00?style=for-the-badge&labelColor=0a0a0a" alt="Resume"/></a>
-  <a href="https://orcid.org/0009-0003-5887-2303"><img src="https://img.shields.io/badge/ORCID-0009--0003--5887--2303-A6CE39?style=for-the-badge&labelColor=0a0a0a&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
-  <img src="https://img.shields.io/github/followers/Albert-PZY?style=for-the-badge&label=followers&labelColor=0a0a0a&color=7dd3fc" alt="followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Albert-PZY&style=for-the-badge&label=profile+views&color=0a0a0a&labelColor=c8ff00" alt="profile views"/>
-</p>
+<br/>
 
----
-
+<!-- Animated GIF autoplays in README (no play button). Refreshed daily by Actions. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0a0a&icon_color=7dd3fc&text_color=e5e5e5&ring_color=c8ff00&border_radius=14&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=e5e5e5&border_radius=14&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Albert-PZY&theme=dark&hide_border=true&background=0A0A0A&ring=C8FF00&fire=C8FF00&currStreakLabel=7DD3FC&sideLabels=A3A3A3&sideNums=E5E5E5&dates=737373" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0a0a0a,50:c8ff00,100:7dd3fc&section=header&text=ACTIVITY&fontSize=28&fontColor=0a0a0a&fontAlignY=48&animation=twinkling" width="100%" alt="Activity" />
-</p>
-
-<!-- Contribution snake GIF — auto-refreshed daily by Actions -->
-<p align="center">
-  <img alt="Contribution snake" src="./assets/activity/github-snake.gif" width="100%" />
-</p>
-
-<!-- Area graph: generic title only — no username banner -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-PZY&bg_color=0a0a0a&color=c8ff00&line=7dd3fc&point=c8ff00&area=true&hide_border=true&custom_title=%20&radius=16&area_color=7dd3fc" width="100%" alt="Contribution activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Albert-PZY&theme=github_dark&utcOffset=8" height="190" alt="Productive hours" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7dd3fc,50:0a0a0a,100:c8ff00&section=footer&text=&fontSize=0&animation=fadeIn" width="100%" alt="" />
+  <img src="./assets/activity/github-snake.gif" width="100%" alt="Contribution activity" />
 </p>
