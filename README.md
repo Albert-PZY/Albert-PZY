@@ -40,13 +40,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0a0a0a,50:c8ff00,100:7dd3fc&section=header&text=ACTIVITY&fontSize=28&fontColor=0a0a0a&fontAlignY=48&animation=twinkling" width="100%" alt="Activity" />
 </p>
 
-<!-- Contribution snake (auto-refreshed daily) -->
+<!-- Contribution snake GIF — auto-refreshed daily by Actions -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity/github-snake.svg" />
-    <img alt="Contribution snake" src="./assets/activity/github-snake.svg" width="100%" />
-  </picture>
+  <img alt="Contribution snake" src="./assets/activity/github-snake.gif" width="100%" />
 </p>
 
 <!-- Area graph: generic title only — no username banner -->

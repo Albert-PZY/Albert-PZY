@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -37,7 +41,9 @@ jobs:
           git add assets/activity/github-snake.svg assets/activity/github-snake-dark.svg assets/activity/github-snake.gif || true
           if git diff --staged --quiet; then
             echo "No changes"
-          else
-            git commit -m "chore: refresh contribution snake animation"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresh contribution snake animation"
+          # Avoid races when two runs finish near the same time
+          git pull --rebase origin main
+          git push
