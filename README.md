@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://albert-pzy.github.io/myself/"><img src="https://img.shields.io/badge/resume-myself-818cf8?style=flat-square&labelColor=0b0f19" alt="Resume"/></a>
-  &nbsp;
-  <a href="https://orcid.org/0009-0003-5887-2303"><img src="https://img.shields.io/badge/orcid-a78bfa?style=flat-square&labelColor=0b0f19&logo=orcid&logoColor=a78bfa" alt="ORCID"/></a>
 </p>
 
 <br/>
