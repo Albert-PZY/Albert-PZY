@@ -21,13 +21,17 @@
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=apachemaven&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -36,13 +40,26 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/Albert-PZY">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0f19&icon_color=818cf8&text_color=e2e8f0&ring_color=818cf8&border_radius=12&include_all_commits=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&hide_title=true&bg_color=0b0f19&text_color=e2e8f0&border_radius=12&langs_count=6" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Albert-PZY&theme=algolia&no-frame=true&column=7&margin-w=6&rank=-C,-?" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-PZY&hide_border=true&background=0b0f19&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" alt="Contribution Streak" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-PZY&bg_color=0b0f19&color=818cf8&line=818cf8&point=a78bfa&area=true&hide_border=true&radius=12" alt="Activity Graph" />
 </div>
 
 <br/>
