@@ -40,24 +40,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b0f19&icon_color=818cf8&text_color=e2e8f0&title_color=818cf8&ring_color=818cf8&border_radius=12&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff&icon_color=4f46e5&text_color=1e293b&title_color=4f46e5&ring_color=4f46e5&border_radius=12&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albert-PZY&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b0f19&icon_color=818cf8&text_color=e2e8f0&title_color=818cf8&ring_color=818cf8&border_radius=12&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&bg_color=0b0f19&text_color=e2e8f0&title_color=818cf8&border_radius=12&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&bg_color=ffffff&text_color=1e293b&title_color=4f46e5&border_radius=12&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-PZY&layout=compact&hide_border=true&bg_color=0b0f19&text_color=e2e8f0&title_color=818cf8&border_radius=12&langs_count=8" alt="Top Languages" />
-  </picture>
-</div>
-
-<br/>
-
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
   <picture>
