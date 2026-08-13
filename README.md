@@ -40,18 +40,6 @@
 
 <br/>
 
-##  Contribution Streak
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Albert-PZY&hide_border=true&background=0b0f19&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Albert-PZY&hide_border=true&background=ffffff&stroke=4f46e5&ring=4f46e5&fire=4f46e5&currStreakLabel=1e293b&sideLabels=1e293b&dates=64748b" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-PZY&hide_border=true&background=0b0f19&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" alt="Contribution Streak" />
-  </picture>
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
