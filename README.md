@@ -8,16 +8,12 @@
     <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/readme/hero-mobile.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero.svg">
-    <img src="./assets/readme/hero.svg" width="100%" alt="Albert: full-stack engineer building AI applications, local-first tools, and thoughtful interfaces.">
+    <img src="./assets/readme/hero.svg" width="760" alt="Albert: full-stack engineer building AI applications, local-first tools, and thoughtful interfaces.">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://albert-pzy.github.io/myself/">Resume</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Albert-PZY?tab=repositories">Repositories</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://albert-pzy.github.io/learn-pi-agent/">Learn Pi Agent</a>
 </p>
 
 
@@ -29,9 +25,8 @@
 
 ### About
 
-I am Albert, a full-stack engineer focused on AI applications and developer tools. I work mainly with TypeScript and Python across web products, Electron workbenches, command-line tools, and runnable learning material.
+I am Albert, a full-stack engineer focused on AI applications and developer tools. I work mainly with TypeScript and Python.
 
-My public projects concentrate on the parts that become visible under real use: streaming lifecycles, context recovery, retrieval quality, local inference, type contracts, and editor behavior. Every project below links to its source or a working demo.
 
 ### Current directions
 
@@ -39,30 +34,6 @@ My public projects concentrate on the parts that become visible under real use: 
 - **Product surfaces** · React and Next.js web interfaces, Electron desktop apps, and ProseMirror / CodeMirror editing systems
 - **Runtime reliability** · cancellable requests, recoverable sessions, encrypted credentials, shared contracts, and observable task flows
 
-### Selected work
-
-**Products**
-
-- **[typora-web](https://github.com/Albert-PZY/typora-web)** · A lightweight, high-fidelity web port of Typora. [Live demo](https://albert-pzy.github.io/typora-web/)
-- **[VidGnost](https://github.com/Albert-PZY/VidGnost)** · A local-first Electron study workbench for video-backed learning, transcript-first QA, and reproducible study artifacts.
-- **[BiliSub](https://github.com/Albert-PZY/BiliSub)** · A Bilibili AI subtitle workspace for streamed retrieval, correction, and export. [Try it](https://bili-sub.vercel.app)
-
-**Systems and learning**
-
-- **[codex-relay](https://github.com/Albert-PZY/codex-relay)** · A Codex CLI account-pool manager that switches relays and restores interrupted session context.
-- **[pi-retry-errors](https://github.com/Albert-PZY/pi-retry-errors)** · A configuration-driven retry extension for Pi Coding Agent failures.
-- **[motion-reel](https://github.com/Albert-PZY/motion-reel)** · A Codex skill for programmatic videos with Remotion, scene-timed audio, captions, and 3D motion.
-- **[mcp-tutorial](https://github.com/Albert-PZY/mcp-tutorial)** · A minimal runnable MCP demo covering `stdio`, `SSE`, and streamable HTTP transports. [Live tutorial](https://albert-pzy.github.io/mcp-tutorial/)
-- **[learn-pi-agent](https://github.com/Albert-PZY/learn-pi-agent)** · A layered guide to Pi Agent architecture based on the official source. [Read online](https://albert-pzy.github.io/learn-pi-agent/)
-
-<details>
-<summary><b>More repositories</b></summary>
-
-- **[CozyTag](https://github.com/Albert-PZY/CozyTag)** · A tab navigation experiment. [Live demo](https://albert-pzy.github.io/CozyTag/)
-- **[LDSaver](https://github.com/Albert-PZY/LDSaver)** · A userscript that exports linux.do posts to Markdown.
-- **[myself](https://github.com/Albert-PZY/myself)** · The source for my online profile and resume.
-
-</details>
 
 ### Stack
 
@@ -72,7 +43,7 @@ My public projects concentrate on the parts that become visible under real use: 
     <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=6">
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=dark&amp;perline=12">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=12">
-    <img src="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=12" alt="TypeScript, Python, React, Next.js, Node.js, Electron, Vite, Tailwind CSS, SQLite, Git, GitHub Actions, and Linux">
+    <img src="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=12" width="600" alt="TypeScript, Python, React, Next.js, Node.js, Electron, Vite, Tailwind CSS, SQLite, Git, GitHub Actions, and Linux">
   </picture>
 </p>
 
@@ -88,7 +59,7 @@ My public projects concentrate on the parts that become visible under real use: 
     <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github_dark&amp;title_color=d7ff4f&amp;text_color=f3f5ea&amp;bg_color=10130f&amp;border_color=353d33&amp;icon_color=8ed8d2&amp;chart_color=b7dc43">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" alt="Live GitHub contribution profile for Albert-PZY" width="100%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" alt="Live GitHub contribution profile for Albert-PZY" width="700">
   </picture>
 </p>
 
