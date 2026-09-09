@@ -8,7 +8,7 @@
     <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/readme/hero-mobile.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero.svg">
-    <img src="./assets/readme/hero.svg" width="760" alt="Albert: full-stack engineer building AI applications, local-first tools, and thoughtful interfaces.">
+    <img src="./assets/readme/hero.svg" width="480" alt="Albert: full-stack engineer building AI applications, local-first tools, and thoughtful interfaces.">
   </picture>
 </p>
 
@@ -43,7 +43,7 @@ I am Albert, a full-stack engineer focused on AI applications and developer tool
     <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=6">
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=dark&amp;perline=12">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=12">
-    <img src="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=12" width="600" alt="TypeScript, Python, React, Next.js, Node.js, Electron, Vite, Tailwind CSS, SQLite, Git, GitHub Actions, and Linux">
+    <img src="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Celectron%2Cvite%2Ctailwind%2Csqlite%2Cgit%2Cgithubactions%2Clinux&amp;theme=light&amp;perline=12" width="440" alt="TypeScript, Python, React, Next.js, Node.js, Electron, Vite, Tailwind CSS, SQLite, Git, GitHub Actions, and Linux">
   </picture>
 </p>
 
@@ -59,7 +59,7 @@ I am Albert, a full-stack engineer focused on AI applications and developer tool
     <source media="(max-width: 560px) and (prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github_dark&amp;title_color=d7ff4f&amp;text_color=f3f5ea&amp;bg_color=10130f&amp;border_color=353d33&amp;icon_color=8ed8d2&amp;chart_color=b7dc43">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" alt="Live GitHub contribution profile for Albert-PZY" width="700">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" alt="Live GitHub contribution profile for Albert-PZY" width="520">
   </picture>
 </p>
 
@@ -67,12 +67,12 @@ I am Albert, a full-stack engineer focused on AI applications and developer tool
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albert-PZY&amp;theme=github_dark&amp;title_color=d7ff4f&amp;text_color=f3f5ea&amp;bg_color=10130f&amp;border_color=353d33&amp;icon_color=8ed8d2&amp;chart_color=b7dc43">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" alt="Live GitHub statistics for Albert-PZY">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" width="300" alt="Live GitHub statistics for Albert-PZY">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albert-PZY&amp;theme=github_dark&amp;title_color=d7ff4f&amp;text_color=f3f5ea&amp;bg_color=10130f&amp;border_color=353d33&amp;icon_color=8ed8d2&amp;chart_color=b7dc43">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" alt="Live repository language distribution for Albert-PZY">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albert-PZY&amp;theme=github&amp;title_color=466600&amp;text_color=172018&amp;bg_color=f7f8f2&amp;border_color=d9ded4&amp;icon_color=0c6664&amp;chart_color=669d65" width="300" alt="Live repository language distribution for Albert-PZY">
   </picture>
 </p>
 
@@ -80,7 +80,7 @@ I am Albert, a full-stack engineer focused on AI applications and developer tool
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Albert-PZY&amp;hide_border=true&amp;background=10130F&amp;ring=D7FF4F&amp;fire=B7DC43&amp;currStreakLabel=D7FF4F&amp;sideLabels=A9B0A4&amp;dates=7F897D&amp;currStreakNum=F3F5EA&amp;sideNums=F3F5EA">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Albert-PZY&amp;hide_border=true&amp;background=F7F8F2&amp;ring=466600&amp;fire=669D65&amp;currStreakLabel=466600&amp;sideLabels=566257&amp;dates=6B756B&amp;currStreakNum=172018&amp;sideNums=172018">
-    <img src="https://streak-stats.demolab.com/?user=Albert-PZY&amp;hide_border=true&amp;background=F7F8F2&amp;ring=466600&amp;fire=669D65&amp;currStreakLabel=466600&amp;sideLabels=566257&amp;dates=6B756B&amp;currStreakNum=172018&amp;sideNums=172018" alt="Live GitHub contribution streak for Albert-PZY">
+    <img src="https://streak-stats.demolab.com/?user=Albert-PZY&amp;hide_border=true&amp;background=F7F8F2&amp;ring=466600&amp;fire=669D65&amp;currStreakLabel=466600&amp;sideLabels=566257&amp;dates=6B756B&amp;currStreakNum=172018&amp;sideNums=172018" width="400" alt="Live GitHub contribution streak for Albert-PZY">
   </picture>
 </p>
 
