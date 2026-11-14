@@ -46,23 +46,15 @@ was written against.
   `[Skip GitHub Action]` and pushes with `GITHUB_TOKEN`, so the push does not
   retrigger the job.
 
-## About the committed card
+## The committed card
 
-The `github-metrics.svg` currently in the repository is a **bootstrap render**, not
-an output of `lowlighter/metrics`. It was produced once from the live GitHub REST and
-GraphQL APIs (owned repositories, contribution calendar, language byte counts,
-license/release/star totals, avatar) with the classic template's stylesheet and
-Octicon set, so the profile has a real card before the first scheduled workflow run.
+`github-metrics.svg` is the last **successful** render, not a live reference: GitHub
+serves whatever blob is in the repository, so the profile is only as fresh as the
+last commit. The current file is 480×673, produced by
+`lowlighter/metrics@3.34.0-beta` with the classic template, the half-year isometric
+calendar and the eight most-used languages, with the avatar inlined so the SVG has
+no external references.
 
-Differences from what the action will produce, all of which disappear on its first
-successful run:
-
-- the contributions calendar is a flat heatmap instead of the plugin's isometric
-  projection;
-- the footer credits the GitHub API rather than `lowlighter/metrics`;
-- the weekly strip in the header shows the last 15 weeks, and the language bar is
-  derived from repository language bytes rather than the plugin's recent-commit
-  weighting.
-
-Once the workflow succeeds, this file is replaced by the real render and this
-section becomes obsolete.
+`commit-card.sh` replaces the file wholesale and every render carries the time it ran,
+so a refresh always produces a full-file diff rather than a counter-level one. That
+is expected: the history is a series of whole-card snapshots, not incremental edits.
